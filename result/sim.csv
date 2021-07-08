@@ -1,0 +1,735 @@
+﻿网传,O,The message conveyed by the network
+误传,0.896639228,misrepresentation
+曝,0.857478023,exposure
+湖南永州,0.833116174,"Yongzhou, Hunan"
+涉事,0.811661005,involved in
+流传,0.811115861,circulated
+画得,0.809509099,painted
+过肩,0.806973398,over the shoulder
+医院纪委,0.804412663,hospital disciplinary committee
+掴,0.801119626,slap
+官方,0.798369527,official
+掌,0.796712935,palm
+上海地铁,0.7949301,Shanghai Metro
+一则,0.793199182,A
+爆料,0.792612255,story
+疑似,0.791990459,suspected to be
+发布者,0.789429605,Posted by
+实地,0.788345993,field
+滑雪场,0.788158417,ski resort
+园方,0.785543203,the park
+引,0.784644485,cited
+颜值,O,Used to evaluate the appearance of people
+长相,0.998013496,Looks like
+帅哥,0.906689942,The handsome boy
+喜剧,0.89829433,comedy
+司,0.894703269,Department of
+烈儿,0.894000351,My son
+亏,0.887492776,kui
+美美的,0.886028588,Meimei's
+镜头,0.88206774,The lens
+红包,0.880534589,A red envelope
+副处长,0.872222364,Deputy director of the
+不开心,0.871832848,Not happy
+大礼,0.867063224,gift
+贺岁,0.866958916,New Year
+让你,0.865027845,Let you
+喔,0.864092529,oh
+发博,0.863619983,Hair bo
+范本,0.862807035,sample
+投稿,0.862200379,contribute
+好运,0.861328423,Good luck
+爱豆,0.860306025,Love bean
+事发,*,Things that happen
+监控,0.94413811,monitoring
+身亡,0.921676695,dead
+不幸身亡,0.898637533,died
+抛下,0.898282409,behind
+伤势,0.892369866,The injury
+店外,0.89162612,outside
+受伤,0.886353552,injured
+小汽车,0.884818256,The car
+落水,0.877622128,The water
+施救,0.874676466,rescue
+当晚,0.874362826,In the evening
+调取,0.874264479,Draw on
+两名,0.873976946,two
+孙恒飞,0.867794514,Sun Hengfei
+放火,0.866352141,Set fire to
+冲击钻,0.862309635,Impact drill
+滑落,0.862168908,slide
+内有,0.860947371,There are
+着火,0.855762601,fire
+董永成,0.852934003,Dong Yongcheng
+湘西,*,"Xiangxi, also known as Xiangxi Region and Greater Xiangxi, is generally the general name of the whole western Hunan region, including Zhangjiajie City, Xiangxi Autonomous Prefecture, Huaihua City and the western counties of Shaoyang City (Suining, etc.)."
+hp,0.884570956,hp
+洁白,0.864553154,white
+掉落,0.8603912,drop
+半空,0.860194027,Half empty
+火速,0.846535623,rushing
+花瓣,0.84326601,petals
+乐山,0.841531277,leshan
+景象,0.840141952,scene
+雪域,0.839145839,Snow area
+黑白,0.838221133,Black and white
+多看,0.828491688,See more
+中间,0.828045189,In the middle
+鱼缸,0.826142192,The fish tank
+架,0.825959146,frame
+sp,0.824652433,sp
+湖,0.821153045,lake
+甲壳虫,0.819430053,The beatles
+就是你,0.819413006,Is that you
+火红,0.81833607,red
+湖南,0.7625777,hunan
+核酸检测,O,Testing for the presence of viral nucleic acids in the body's blood
+阴性,0.964780152,negative
+核酸,0.963700175,The nucleic acid
+阳性,0.928597033,positive
+检测,0.926470757,detection
+转运,0.910592258,transshipment
+隔离,0.898599684,isolation
+集中隔离,0.895836353,Concentration of isolation
+采样,0.879039109,The sampling
+应检尽检,0.878369987,Applicants should check
+拭子,0.872578979,swab
+医疗机构,0.867548108,medical institution
+金州,0.863016903,The golden state
+协查,0.860392392,investigation
+发热,0.85919255,fever
+采集,0.85356909,collect
+顺义区,0.852153182,Shunyi district
+融汇,0.851158559,together
+西城区,0.848480821,Xicheng district
+门诊,0.844635665,Outpatient service
+均为,0.84359479,Are all
+免单,O,"Free order, free access. Merchants can offer free trials and tastings to everyone for promotional purposes."
+618,0.943256617,618
+赠送,0.935519993,Complimentary
+奥普,0.929553568,Opal
+学姐,0.919799209,Schoolgirl
+平论,0.919232786,Comments
+三瓶,0.918759584,Three bottles
+赞,0.917817116,Likes
+多送,0.917468071,more free
+立减,0.915643036,standing discount
+饱饱,0.909084857,full
+家装,0.909084678,home decor
+赠,0.908380091,free
+运费,0.907531738,shipping costs
+小马甲,0.906166971,small vest
+早餐,0.904991925,breakfast
+吃货,0.904886723,Eating
+米线,0.902209044,Rice Noodles
+抽奖,0.901427627,Prize Draw
+材质,0.900998473,Material
+清透,0.900636852,Clear
+佩戴口罩,*,Wearing a mask
+物资,0.898278356,Supplies
+生活必需品,0.89254123,Necessities of life
+批发,0.884701312,Wholesale
+须持,0.880237758,must be held
+高风险,0.874234557,High risk
+非必要,0.873922169,Non-essential
+甄宝,0.871810734,Zhen Bao
+聚集,0.870972812,Gathering
+出入境,0.87075597,exit and entry
+考点,0.86605674,examination points
+防护,0.862317562,protection
+频次,0.8618626,frequency
+通用,0.858755231,General
+尽量减少,0.858393669,Minimise
+低,0.857819438,low
+关停,0.856252074,Shutdown
+保持,0.85483855,Maintain
+测温,0.853072822,Temperature measurement
+措施,0.852814436,Measures
+进口,0.852095246,inlet
+集中隔离,*,It is generally managed in centralized isolation in hotels arranged by isolation outbreak managers
+转运,0.968181014,Transit
+均为,0.936470211,are
+流行病,0.905360281,Epidemics
+北京首都机场,0.905347764,Beijing Capital Airport
+阴性,0.902797878,Negative
+定点医院,0.901889741,Designated hospitals
+阳性,0.898960948,Positive
+医疗机构,0.897823036,Medical institutions
+发热,0.897505879,fever
+密接,0.896051884,close connection
+核酸检测,0.895836473,Nucleic acid test
+拭子,0.893494904,swab
+西城区,0.889204264,Western District
+史,0.884962857,history
+核酸,0.884823501,nucleic acid
+感染者,0.88443774,infected person
+门诊,0.875734925,Outpatient
+大兴区,0.87305361,Daxing District
+旅居,0.872561395,travel
+通化市,0.866986215,Tonghua
+北大,O,Abbreviation of Beijing University
+北京大学,0.95522052,Beijing University
+五四青年节,0.940623343,May Fourth Youth Day
+学位授予,0.938126922,Degree Award
+补办,0.931142151,Supplementary
+建校,0.913233817,University Establishment
+仪式,0.911207199,Ceremony
+届,0.898921251,Session
+承诺cr,0.88793081,Commitment cr
+缺席,0.88520503,Absent
+五四运动,0.879017115,May Fourth Movement
+中公,0.874162674,Chung Kung
+全民阅读,0.873405576,Reading for All
+颁奖仪式,0.861037374,Award Ceremony
+纪念日,0.858316123,Memorial Day
+年份,0.85764879,Year
+求学,0.855094731,Seeking Education
+走样,0.848956048,Going out of Style
+劳动节,0.848640025,Labour Day
+中联办,0.848102748,Liaison Office of the Central People's Government
+传统文化,0.8436656,Traditional Culture
+奇林峡,O,"Qilinxia Scenic Area is located in the Tibet Autonomous Region, Dingjie County, Shigatse Region, at the border of Nepal and India."
+风景区,0.961525321,Scenic Area
+日喀则,0.961094439,Shigatse
+去旅行,0.934089482,Go travelling
+观景台,0.928043604,Observation Deck
+鬼斧神工,0.925816476,The Magic of the Ghosts
+西藏,0.923749268,Tibet
+多米,0.917629302,Domi
+说它,0.914532781,say it
+海拔,0.913140893,elevation
+沙土,0.911224782,sandy soil
+玉帝,0.91027981,Jade Emperor
+延展,0.910224557,extension
+定结县,0.909373343,Dingjie County
+连绵,0.907757163,continuous
+景点,0.903056264,attractions
+奇怪,0.902992129,strange
+雪山,0.902133405,snow-capped mountains
+四驱,0.901469171,4WD
+西藏之旅,0.901181281,Tibet Tours
+西藏日喀则,0.899929643,"Rikaze, Tibet"
+南大,O,Abbreviation of Nanjing University
+碎尸案,0.964093149,The Case of the Broken Body
+刁爱青,0.953513265,Diao Aiqing
+1996,0.919622123,1996
+撤诉,0.891211867,Withdrawn
+书,0.884494483,Book
+南京大学,0.883361459,Nanjing University
+毁尸灭迹,0.873541713,Destroying the body
+无法忍受,0.868151426,Unbearable
+刘鑫,0.864808202,Liu Xin
+万后,0.859705806,After Wan
+年案,0.858243704,the year case
+再起波澜,0.856230736,the case is on the rise again
+再审,0.856208384,Retrial
+曦,0.856108725,Xi
+案开庭,0.855918229,case starts
+生父,0.853258491,The biological father
+从未,0.85144192,never
+种种原因,0.851180017,various reasons
+本科毕业,0.849625707,graduated with a bachelor's degree
+沙市二中,0.847183228,Changsha City Second Middle School
+B站,O,"abbreviation of BliBli, which is now a cultural community and video platform with a high concentration of young people in China"
+Bilibili,0.998614669,B站's English name
+买不起,0.855883002,Can't afford to buy
+热搜,0.855881393,Hot search
+视客眼镜,0.826318145,Visionary Eyewear
+影响力,0.824562013,Influence
+主持,0.823556542,Presenter
+知名,0.820372581,Famous
+合作,0.820345044,Collaboration
+bilibili,0.812804699,B站's English name
+粉丝们,0.808195949,Fans
+中国视协,0.806346118,China Television Association
+制片人,0.804807961,Producers
+耐克,0.80469811,Nike
+助理,0.804233193,Assistants
+品牌,0.799978495,Brands
+地位,0.797473907,status
+专访,0.797083676,Interviews
+新疆棉,0.797038734,Xinjiang cotton
+悬浮,0.795225561,Suspension
+迫切,0.793655455,urgency
+新冠,O,Covid-19
+感染,0.872130811,Infection
+病毒,0.8698107,Virus
+肺炎,0.853960216,pneumonia
+世卫,0.853619516,WHO
+HPV,0.851972878,HPV
+变异,0.845303118,mutation
+韦尔,0.837926507,Weil
+疫苗,0.835510612,Vaccine
+一家医院,0.826070786,A hospital
+变种,0.819503069,variant
+获批,0.816130579,approved
+英国,0.816130459,United Kingdom
+新德里,0.809809029,New Delhi
+腾出,0.808985829,vacated
+疗效,0.807298303,efficacy
+巴西,0.807210505,Brazil
+病毒检测,0.806805074,Virus testing
+意大利,0.806798041,Italy
+在英国,0.803815424,In the UK
+欧洲国家,0.80226475,European countries
+阳性,*,"Usually this means that the result of the test reveals a problem, an abnormal change, and it is called a positive. If there is no detection, it is called a negative"
+核酸,0.952759385,Nucleic acid
+拭子,0.947881877,Swabs
+疾控中心,0.946609616,CDC
+西城区,0.945958316,Xicheng District
+检测,0.943226039,Testing
+样本,0.942989826,Samples
+转运,0.93131876,Transfer
+采样,0.930468082,Sampling
+采集,0.930359125,Collection
+阴性,0.93006438,Negative
+核酸检测,0.928597212,Nucleic acid testing
+发热,0.917248309,fever
+应检尽检,0.915903091,should be tested
+呈阳性,0.915666223,Positive
+庄胜广场,0.912171364,Johnson Square
+均为,0.911434114,All
+协查,0.907962739,co-test
+咽,0.906653881,pharynx
+标本,0.901603222,specimens
+大兴区,0.900363207,Daxing District
+天才病,O,"Autism spectrum disorder (ASD) or pervasive developmental disorder (PDD) with the same social interaction difficulties, restricted interests and repetitive, stereotyped activity patterns as autism."
+说唱,0.982901812,Rap
+阿斯伯格综合征,0.979215682,Asperger's Syndrome
+卧槽,0.958665192,Crouch
+感同身受,0.958384097,Empathy
+爱贝克,0.957698941,Love Baker
+主角,0.952994525,Main Character
+大傻,0.952829719,Big Dummy
+霓裳,0.95218569,neon
+动人,0.951497257,moving
+爱着,0.951054335,in love
+盛宇,0.947720706,Shengyu
+岁月,0.946202338,years
+共情,0.944979489,shared love
+我还是,0.943766534,I'm still
+女孩儿,0.942395031,girl
+和爱,0.941179097,and love
+笑起来,0.941081524,Laugh up
+殿堂,0.940036595,The Temple
+月亮,0.939421654,Moon
+想到,0.938979089,think of
+世卫,O,Abbreviation of WHO
+世界卫生组织,0.941897213,World Health Organization
+毒株,0.919085026,virus strains
+变异,0.910648525,mutations
+非典,0.909998536,SARS
+变种,0.893427253,Variants
+HPV,0.888927758,HPV
+有效性,0.879201174,Effectiveness
+WHO,0.875785112,WHO
+高级官员,0.872345448,Senior official
+病毒,0.870806873,Virus
+该文件,0.866771519,The document
+中国人民解放军,0.863673151,Chinese People's Liberation Army
+德国,0.863397777,Germany
+欧洲,0.863382816,Europe
+空军军医大学,0.863165438,Air Force Military Medical University
+该国,0.86082685,In this country
+在英国,0.860492647,in the United Kingdom
+免疫,0.857960522,Immunisation
+多国,0.856618106,Multinational
+宿主,0.856483757,Hosts
+代孕,*,"The act of a woman of childbearing potential who, with the aid of modern medical technology, conceives or gives birth to a child for another person"
+暗战,0.886923373,dark war
+维系,0.882240772,maintain
+弃养,0.87727803,abandonment
+明令禁止,0.875496089,explicitly forbidden
+充斥,0.86521554,flooding
+中国视协,0.864715397,the China Television Association
+应有,0.861805618,should have
+解读,0.860129356,interpreted
+的代理,0.855722249,agent
+来为,0.854755402,to provide
+反驳,0.853171945,rebuttal
+讨论,0.851981938,discussion
+藏身,0.845877588,hiding
+风波,0.837017,the storm
+进了监狱,0.836673737,in prison
+大胆,0.835816443,boldness
+精神,0.835102975,spirit
+道德,0.833288789,morality
+一系列,0.833167672,a series of
+买不起,0.831539452,Can't afford to buy
+婚车,O,The wedding car is the vehicle used to marry the couple when they get married.
+接亲,0.937776029,Wedding reception
+头车,0.936778665,head carriage
+玩车,0.936079443,Play car
+伴郎,0.930500448,best man
+啊,0.916674554,Ah!
+去年今天,0.915691674,Last year today
+备婚,0.914541543,Wedding Preparation
+大哥大,0.912949502,big brother
+沭阳,0.90821439,Shuyang
+大众甲壳虫,0.906385779,VW Beetle
+昨天,0.903855622,yesterday
+泛月,0.902919888,Pangaea
+送她,0.899985194,Send her
+前来,0.895215988,before
+甲壳虫,0.892603219,Beetle
+歌,0.891848683,Song
+笑,0.886337876,smile
+再买,0.886001587,Buy again
+看见了,0.884732723,see
+趣闻,0.884386182,anecdote
+广电,O,Abbreviation of Radio and Television
+广播电视,0.960587978,Radio & TV
+房地产市场,0.945488095,Real Estate Market
+上榜,0.93358171,Make the list
+人事,0.925009906,Personnel
+金融管理部,0.92356652,Financial Management Department
+智能,0.923282027,Intelligent
+广播电视总局,0.921800315,General Administration of Radio and Television
+不正当竞争,0.920943141,Unfair Competition
+公平竞争,0.920878291,Fair Competition
+消费者权益,0.920174181,Consumer Rights
+线下,0.91845727,Offline
+积极作用,0.916729987,active role
+政务,0.915220201,government affairs
+网信,0.912609398,online information
+会议精神,0.910035074,conference spirit
+水军,0.908599019,water army
+国办,0.908236742,state office
+市场秩序,0.907397091,market order
+立足,0.907362878,grounded
+金融监管,0.907268584,financial supervision
+领证,O,the action before Marriage is established by law
+结婚,0.943464696,Marriage
+相亲,0.899828553,Matchmaking
+磨刀,0.890498221,sharpening a knife
+办了,0.878049195,done
+认识了,0.872154236,met
+彩礼钱,0.869265854,the bride price
+前前后后,0.860707998,before and after
+相识,0.853008091,get to know each other
+净身,0.851056397,net
+恋爱,0.85033071,fall in love
+过日子,0.849826157,living together
+一次,0.849148035,once
+终于,0.848524868,finally
+借了,0.846654534,borrowed
+王华,0.844388187,Wang Hua
+为她,0.842359424,for her
+卖了,0.841965854,Sold
+叶先生,0.840362787,Mr. Ye
+送养,0.839028239,Give her up for adoption
+搬回,0.837608397,moved back to
+拼多多,*,The current mainstream mobile shopping app in China
+页面,0.893110752,Pages
+平台,0.881164074,Platform
+营销,0.861797035,Marketing
+从业,0.857824922,Practitioners
+用户,0.853806615,Users
+商品,0.849093378,Products
+退款,0.848930776,Refunds
+某公司,0.839916348,A company
+新浪科技,0.837240398,Sina Technology
+副总裁,0.834037185,Vice President
+应聘者,0.828151286,Candidate
+vivo,0.828093946,vivo
+退货,0.826283872,return
+三沙,0.82403487,Sansha
+有害,0.823732316,harmful
+社保,0.819274724,social security
+荐股,0.817734182,stock recommendation
+会员,0.817637026,membership
+电视,0.815003037,TV
+崂山啤酒,0.814340472,Laoshan Beer
+居家,*,"Refers to all items related to domestic life. This includes furniture, accessories and household items. Modern home life is not just limited to the literal meaning of the word, home is more of a way of life for modern people to pursue leisure, relaxation and enjoyment."
+划算,0.871519446,Value for money
+日常,0.843483925,Daily
+等个人,0.84060359,etc. for individuals
+春节期间,0.838837504,during the Chinese New Year
+返乡,0.837377489,returning home
+保暖,0.834811211,Keeping warm
+上海租房,0.827032506,renting a room in Shanghai
+勤,0.826569021,diligently
+即可,0.825434744,you can
+减肥瘦身,0.822540224,lose weight and get slim
+第一财经,0.821210802,First Finance
+尽量,0.809462249,try to
+包装,0.809384763,pack
+兔费,0.804796934,rabbit fee
+戴好,0.804278672,Wear it well
+元旦假期,0.804074049,New Year's Day Holiday
+走亲访友,0.803236902,visit friends and relatives
+控,0.800471187,control
+小调查,0.798631549,mini survey
+不舒服,0.79835546,uncomfortable
+冬奥会,O,Abbreviation of Winter Olympic Games
+冬季奥林匹克运动会,0.944164336,Winter Olympic Games
+全国,0.921603858,National
+公司生产,0.920916617,Company production
+一季度,0.916762054,First quarter
+冰壶,0.914359093,Curling
+年度,0.912234426,Annual
+世锦赛,0.909094751,World Championships
+之城,0.905079663,City of
+双奥,0.898754299,Double Olympics
+城市,0.898474693,Cities
+攻坚,0.892197251,Tackling
+人民日报,0.892100453,People's Daily
+论坛,0.891506314,Forum
+颁奖仪式,0.889567792,Awards Ceremony
+2022,0.889404595,2022
+端午节,0.88902986,Dragon Boat Festival
+冬奥,0.88836807,Winter Olympics
+百城,0.88834542,100 Cities
+世代,0.88649863,Generations
+全民阅读,0.884942651,Reading for All
+催婚,*,Urging for marriage
+催促,0.973894656,A reminder
+新年新,0.968315482,New Year New
+李现,0.959543407,Li Xian
+fi,0.955392301,fi
+新知,0.952876151,new knowledge
+大张伟,0.952857733,Da Zhang Wei
+再结,0.951844752,Re-knot
+出品,0.948959529,productions
+梓,0.948313713,zi
+刘涛,0.946585178,Liu Tao
+找找,0.946271837,look for
+不甘,0.945199013,unwilling
+软肋,0.945069373,softness
+放心吧,0.944778979,Be at ease
+却也,0.944677293,But also
+看我,0.942910373,look at me
+兄弟们,0.9387272,brothers
+太太,0.938293159,Mrs.
+跨界,0.937969446,Crossing the border
+未必,0.936990499,not necessarily
+藏尸,O,Hide the killed body
+杀妻,0.932262361,wife murder
+冰柜,0.931326866,freezer
+杀人,0.911912262,kill someone
+发凉,0.899570525,cold
+作陪,0.896471918,to accompany
+对前,0.892424881,to ex
+惊悚,0.890928984,thriller
+月色,0.882650316,moonlight
+巧合,0.874386251,coincidence
+诡异,0.873964131,eerie
+倾家荡产,0.873725891,all the money in the world
+爱到,0.86272645,love to
+驸马,0.862413824,a team leader
+痛下,0.860982418,painful
+分尸,0.859640598,splitting a corpse
+西飞,0.856085062,the west fly
+离奇失踪,0.85379988,Strange Disappearance
+爱你,0.851943254,love you
+之南,0.8512519,The South
+杀,0.846344173,Killing
+网红,O,A person or object that has become popular because of an event or action
+喵,0.911084294,meow
+饼,0.90562135,The bread
+网络红款,0.896070242,Internet Hot Style
+吃火锅,0.878201842,Eat hot pot
+网络爆红,0.875930667,Network burst
+白菜,0.874667525,Chinese cabbage
+一波,0.873838782,A wave of
+爆红款,0.872349977,Hit the paragraph
+吃货,0.867116928,version
+声音嘶哑,0.864903569,Voice hoarse
+面料,0.864186108,The fabric
+凉快,0.863479435,cool
+牛奶,0.8604092,milk
+肉松,0.85562849,Pork floss
+新鲜,0.855255544,fresh
+一百分,0.854452789,A percentage
+爱吃,0.852999032,Love to eat
+舒服,0.851526618,comfortable
+润喉,0.850981891,My throat
+嗓子,0.850331783,My throat
+私信,O,A one-to-one chat tool launched by Weibo
+聊天,0.945402563,chat
+就问,0.93901968,He asked
+术业,0.9281497,The technique
+口碑,0.926594734,Word of mouth
+前突,0.920701146,Before the sudden
+牙齿,0.91918999,teeth
+比较好,0.918533564,better
+bot,0.916728795,bot
+靳,0.915400207,jin
+口腔,0.912951231,oral
+门牙,0.912702441,The front teeth
+推荐,0.910624087,recommended
+牙缝,0.909505129,His teeth
+错位,0.908876359,dislocation
+哈,0.908652425,ha
+专攻,0.908088446,Specializing in
+小仙女,0.907803893,fairy
+私立医院,0.903543472,Private hospitals
+牙齿矫正,0.900241435,orthodontics
+免费咨询,0.895297348,A free consultation
+防控,*,Prevention and control
+大山子店,0.875058949,Dashanzi shop
+徐和,0.863549352,XuHe
+做好,0.861347258,do
+复学,0.857568741,Go back to school
+封闭,0.856737196,closed
+要做好,0.854918003,To do well
+副区长,0.849988997,Deputy prefects
+非必要,0.844687819,Not necessary
+等地,0.84352684,In places such as
+餐具,0.843201816,tableware
+从即日起,0.841706991,From now on
+关停,0.841328263,Shut down
+北京市,0.840444267,The Beijing municipal
+出行,0.838801265,travel
+领导小组,0.837096572,The leading group
+调整,0.836934805,Adjust the
+副主任,0.836848557,Deputy director of the
+小组办公室,0.835548937,Group office
+防护,0.83507514,protective
+工作,0.834145248,work
+美方,*,American side
+华春莹,0.982567787,HuaChunYing
+外交部,0.958884776,The Ministry of Foreign Affairs
+国际社会,0.958096921,The international community
+生物实验室,0.951049387,Biological laboratory
+核,0.946109056,nuclear
+提及,0.945308566,mention
+董雪,0.944774747,Dong Xue
+反华,0.944515109,anti-china
+成欣,0.943142116,ChengXin
+外交,0.939521194,foreign
+基地,0.937570512,base
+入海,0.936565399,To the sea
+废水,0.933040679,Waste water
+不守,0.929094374,Don't keep
+中方,0.929056704,The Chinese side
+排放,0.922049403,emissions
+所谓,0.920532465,The so-called
+嫁祸,0.918850243,charge
+其他国家,0.918204308,Other countries
+为什么要,0.913830519,Why do you want to
+返校,O,Back to school
+开学,0.936885774,Start of term
+大学生,0.930630922,College students'
+开学季,0.929925025,back-to-school
+高校,0.908145607,Colleges and universities
+洛阳,0.893060625,luoyang
+放寒假,0.883232772,Winter vacation
+陆续,0.881963611,In succession
+寒假,0.870634019,The winter holiday
+学子,0.868300855,students
+高校学生,0.857729971,University students'
+保定,0.856612742,baoding
+校区,0.854777157,campus
+各中小学校,0.854070902,Primary and secondary schools
+给学生,0.852358341,To the student
+考研,0.849043131,take part in the postgraduate entrance exams
+往年,0.847484469,"In previous years,"
+中小学,0.844149172,Primary and secondary schools
+师生们,0.842041433,Teachers and students
+义务教育阶段学校,0.840530515,Schools for compulsory education
+校园,0.839613795,campus
+熟蛋返生,*,"A paper by a teacher surnamed Guo from the city's Chunlin Vocational Training School has caught fire. The article claims that the use of ""parapsychological consciousness energy methods"" can bring ""cooked eggs back to life to hatch chicks"" and is included in the journal ""Real Geography""."
+论文,0.975705981,The paper
+孵小鸡,0.94133532,Hatch chicken
+欺侮,0.928504348,To bully
+蛋,0.919593036,egg
+搞不懂,0.91850245,Don't understand
+王妃,0.89705503,princess
+炒房,0.894347131,Estate planning
+江湖骗子,0.893594682,charlatans
+冷风机,0.879835486,Air cooler
+返老还童,0.878612339,rejuvenation
+深房,0.877857268,Bourse of new peak of deep room
+甩锅,0.871920764,Jilt pan
+鑫林,0.871605873,Xin Lin
+特异功能,0.868340313,psychic
+养鸡,0.867014825,chicken
+农牧机械,0.866871297,Agriculture and animal husbandry machinery
+能信,0.865826607,Can the letter
+夜意,0.862989426,Night means
+培训费,0.86165446,training
+谁在,0.857350707,Who is in
+长安,O,"The ancient name for Xi'an in Shaanxi. It is one of the ancient capitals of China. It was the capital of the Western Han, Sui and Tang dynasties."
+西安,0.927901983,Xi 'an
+当前,0.922473669,The current
+北宋,0.829995692,Northern song dynasty
+半部,0.81119591,half
+皇城,0.78842032,emperor
+知我意,0.786563158,Who know my meaning
+唐朝,0.785252333,The tang dynasty
+南风,0.784634054,The south wind
+朱雀,0.77871865,rosefinch
+jf,0.768205225,jf
+城墙,0.767443478,The wall
+奉元,0.764723599,In yuan
+成毅,0.76007092,chengyi
+西北角,0.743284106,The northwest corner of
+毅淇,0.741707921,YiQi
+音乐剧,0.740990639,musical
+推下,0.7392869,Pushed down
+府,0.739041865,fu
+修筑,0.738487184,To build
+元朝,0.733346105,The yuan dynasty
+凤凰网,X,Media Organization
+以及其他,0.875745952,As well as other
+前提,0.86096102,The premise
+考虑,0.854829669,consider
+应该,0.848549128,Should be
+讨论,0.847541749,discuss
+法人,0.846000969,As a legal person
+看法,0.844278395,view
+一些,0.843624532,Some of the
+某些,0.842629492,Some of the
+已经有了,0.842544794,There has been a
+鼓励,0.841371894,encourage
+否定,0.840527594,no
+并不是,0.840471685,Is not
+缺乏,0.840131342,The lack of
+有人认为,0.835042536,Some people think that
+绝不能,0.833140373,Must not be
+排海,0.833085835,A sea
+提案,0.831714451,The proposal
+女性化,0.825501561,feminine
+会,0.824412286,will
+小女,O,modestly refers to her daughter
+霓裳,0.955716729,Neon
+日子,0.936337888,Day
+伯远,0.931210399,Burgyuan
+完美,0.927607059,Perfect
+歌曲,0.926592946,Songs
+饰演,0.925914586,Acting
+反讽,0.925731301,Irony
+说着,0.925297499,Saying
+生出,0.922362566,Born
+说到,0.922317028,Speaking
+放纵,0.920641601,Indulge
+想到,0.920609891,Thinking of
+主角,0.920114219,protagonist
+越,0.919965863,the more
+女儿,0.918624222,daughter
+女孩儿,0.916383803,Girl
+幸福,0.914875209,Happiness
+当兵,0.914814234,soldier
+嵩哥,0.914077163,Song
+理想生活,0.913081646,Ideal Life
+美日,* ,US-Japan
+负责任,0.930200875,Responsible
+海洋,0.924541771,Marine
+反华,0.917807519,Anti-Chinese
+国际社会,0.913282394,International Community
+董雪,0.907775164,Dong Xue
+台海,0.904260457,Taiwan Sea
+国际,0.903977871,International
+生物武器,0.903201997,Biological Weapons
+成欣,0.902985334,Cheng Xin
+美方,0.902806699,U.S. side
+华春莹,0.90254271,Hua Chunying
+海洋环境,0.902438343,Marine Environment
+诚实,0.899173498,Honesty
+他指出,0.896287203,He pointed out that
+公众人物,0.896039069,Public figures
+透明,0.895604432,Transparency
+主权,0.895460248,Sovereignty
+炮轰,0.895077407,shelling
+先例,0.894196868,precedent
+排入,0.893888295,exclusion
